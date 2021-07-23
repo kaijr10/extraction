@@ -1,2 +1,1 @@
-abc
-sd;osabc
+The extraction script in python
